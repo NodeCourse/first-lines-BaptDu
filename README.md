@@ -21,11 +21,11 @@ You will need to use Node.js' [fs](https://nodejs.org/api/fs.html) module, the [
 
 ## Step by step
 
-1. Get a copy of this repository
-2. Clone it on your computer
-3. Create a new branch for your work
-4. Initialize a new Node.js project
-5. Create an index.js file to write your code
-6. Run your program and check the result
+1. Get a copy of this repository [x]
+2. Clone it on your computer [x]
+3. Create a new branch for your work [x]
+4. Initialize a new Node.js project [x]
+5. Create an index.js file to write your code [x]
+6. Run your program and check the result 
 7. Commit and push your changes
 8. Visit your GitHub repository to create a pull request
